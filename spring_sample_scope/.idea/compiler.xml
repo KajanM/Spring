@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="spring_sample" />
+        <module name="spring_sample_java" />
+        <module name="spring_sample_java_annotation_byName" />
+        <module name="spring_sample_java_annotation_constructor" />
+        <module name="spring_sample_java_annotation_constructor_true_power" />
+        <module name="spring_sample_java_annotation_setter" />
+        <module name="spring_sample_java_annotation_setter_true_power" />
+        <module name="spring_sample_java_annotation_true_power" />
+        <module name="spring_sample_java_constructor" />
+        <module name="spring_sample_java_setter" />
+        <module name="spring_sample_scope" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="spring_sample" target="1.8" />
+      <module name="spring_sample_java" target="1.8" />
+      <module name="spring_sample_java_annotation_byName" target="1.8" />
+      <module name="spring_sample_java_annotation_constructor" target="1.8" />
+      <module name="spring_sample_java_annotation_constructor_true_power" target="1.8" />
+      <module name="spring_sample_java_annotation_setter" target="1.8" />
+      <module name="spring_sample_java_annotation_setter_true_power" target="1.8" />
+      <module name="spring_sample_java_annotation_true_power" target="1.8" />
+      <module name="spring_sample_java_constructor" target="1.8" />
+      <module name="spring_sample_java_setter" target="1.8" />
+      <module name="spring_sample_scope" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+</project>
